@@ -7,7 +7,7 @@ import {VitePWA} from 'vite-plugin-pwa';
 
 export default defineConfig(() => {
   return {
-    base: '/ho-ng-quan/',
+    base: '/',
     plugins: [
       react(),
       tailwindcss(),
