@@ -1,0 +1,6 @@
+{
+  "name": "Quản Lý Dân Cư & Hộ Khẩu Điện Tử - Thôn 1, Xã Ea Wer",
+  "description": "Hệ thống quản lý dữ liệu dân cư, hộ khẩu điện tử, đối tượng chính sách và báo cáo thống kê địa bàn Thôn 1, Xã Ea Wer, Tỉnh Đắk Lắk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
